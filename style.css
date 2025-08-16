@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color: white;
+    font-family: "smooch Sans"
+    "consolas",sans-serif;
+}
+
+p{
+    color:rgb(110, 218, 110);
+    font-family: "consolas",sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan underline;
+    font-size: 16px;
+  }
+  
